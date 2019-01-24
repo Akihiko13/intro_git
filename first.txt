@@ -3,3 +3,6 @@
 Gitの練習ファイル
 
 githubにアップするよ
+
+.git add
+.git commit
